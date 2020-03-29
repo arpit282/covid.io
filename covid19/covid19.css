@@ -1,0 +1,21 @@
+body{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.title{
+    position: sticky;
+    top: 0;
+    color: #fff;
+    z-index: 333;
+}
+.form-group{
+    margin: 0 20px;
+}
+.card{
+    margin: 0 20px;
+}
+#name{
+    color: #fff;
+    text-align: center;
+}
